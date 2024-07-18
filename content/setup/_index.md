@@ -1,4 +1,4 @@
 ---
-linkTitle: "Getting Started"
+linkTitle: "Основные навыки осознанности"
 weight: -5
 ---

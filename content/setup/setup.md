@@ -1,12 +1,30 @@
 ---
-title: "Setup"
+title: "Наблюдение"
 tags:
 - setup
 weight: -5
 ---
 
-## Getting Started
-Setting up Amethyst requires a basic understanding of `git`. If you are unfamiliar, [this resource](https://resources.nwplus.io/2-beginner/how-to-git-github.html) is a great place to start!
+## Обзор базовых навыков осознанности
+{{< expand "НАВЫКИ ОСОЗНАННОСТИ (ЧТО)" "..." >}}
+## Markdown content
+Lorem markdownum insigne...
+{{< /expand >}}
+
+{{< expand "НАВЫКИ ОСОЗНАННОСТИ (КАК)" "..." >}}
+## Markdown content
+Lorem markdownum insigne...
+{{< /expand >}}
+
+{{< expand "Custom Label" "..." >}}
+## Markdown content
+Lorem markdownum insigne...
+{{< /expand >}}
+
+{{< expand "Custom Label" "..." >}}
+## Markdown content
+Lorem markdownum insigne...
+{{< /expand >}}
 
 ### Forking
 > A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
