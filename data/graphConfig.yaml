@@ -31,6 +31,15 @@ globalGraph:
     fontSize: 0.5
     opacityScale: 3
 
+### Language Support ###
+defaultContentLanguage: ar
+languages:
+    ar:
+        languagedirection: rtl
+        title: مدونتي
+        weight: 2
+
+
 ### For all graphs ###
 
 paths:
