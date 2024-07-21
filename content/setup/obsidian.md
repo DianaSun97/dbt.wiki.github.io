@@ -1,5 +1,5 @@
 ---
-title: "Obsidian Vault Integration"
+title: "Описание"
 tags:
 - setup
 weight: -3

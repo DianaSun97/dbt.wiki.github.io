@@ -1,17 +1,16 @@
 ---
-title: 💜 Welcome to Amethyst!
+title: 💜 Добро пожаловать в DBT WIKI!
 enableToc: false
 ---
 
-## What is Amethyst?
-Amethyst is a free [Obsidian Publish](https://obsidian.md/publish) alternative that is derived from two existing projects, [Quartz](https://quartz.jzhao.xyz/) and [Hugo Book](https://github.com/alex-shpak/hugo-book).
+## Что такое DBT WIKI?
+Это начало вики по диалектической поведенческой терапии.
 
-The purpose of Amethyst is to provide a space to publish more structured notes created in Obsidian that may not fit in the [digital garden](https://joelhooks.com/digital-garden/) archetype that is well-supported by existing projects.
-
+DBT основан на работе Марши М. Линехан, доктора философии. кто разработал это лечение для людей с пограничным расстройством личности, см. Руководство по обучению навыкам лечения пограничного расстройства личности Марши М. Линехан ISBN 0898620341.
 Amethyst was primarily created as a theme for my [course notes](https://notes.bencuan.me).
 
 ## Get Started
-> 📚 Step 1: [Setup your own Amethyst instance](setup/setup.md)
+> 📚 Step 1: [Setup your own Amethyst instance](setup/observe)
 
 > ✏️ Step 2: [Editing Notes in Amethyst](setup/editing.md)
 
