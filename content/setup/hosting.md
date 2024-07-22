@@ -1,5 +1,5 @@
 ---
-title: "Deploying Amethyst to the Web"
+title: "Эффективность"
 tags:
 - setup
 aliases:

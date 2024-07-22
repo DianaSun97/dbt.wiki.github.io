@@ -1,5 +1,5 @@
 ---
-title: "Custom Domain"
+title: "Однонаправленность"
 ---
 
 ### Registrar

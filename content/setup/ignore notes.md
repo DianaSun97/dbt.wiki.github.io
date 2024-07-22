@@ -1,5 +1,5 @@
 ---
-title: "Ignoring Notes"
+title: "Мудрый разум"
 ---
 
 Edit `ignoreFiles` in `config.yaml` to include paths you'd like to exclude from being rendered.

@@ -1,5 +1,5 @@
 ---
-title: "Customization"
+title: "Участие"
 tags:
 - setup
 weight: 0

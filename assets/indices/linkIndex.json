@@ -4,7 +4,7 @@
       "/": [
         {
           "source": "/",
-          "target": "/setup/setup",
+          "target": "/setup/observe",
           "text": "Setup your own Amethyst instance"
         },
         {
@@ -29,7 +29,7 @@
         },
         {
           "source": "/",
-          "target": "/setup/config",
+          "target": "/setup/articipate",
           "text": "Customizing Amethyst"
         },
         {
@@ -55,14 +55,14 @@
           "text": "config"
         }
       ],
-      "/setup/config": [
+      "/setup/articipate": [
         {
-          "source": "/setup/config",
+          "source": "/setup/articipate",
           "target": "/features/language",
           "text": "Chinese, Japanese, and Korean support"
         },
         {
-          "source": "/setup/config",
+          "source": "/setup/articipate",
           "target": "/setup/troubleshooting",
           "text": "FAQ and Troubleshooting guide"
         }
@@ -130,18 +130,6 @@
           "text": "Hosting Amethyst online!"
         }
       ],
-      "/setup/setup": [
-        {
-          "source": "/setup/setup",
-          "target": "/setup/editing",
-          "text": "Editing Notes in Amethyst"
-        },
-        {
-          "source": "/setup/setup",
-          "target": "/setup/troubleshooting",
-          "text": "FAQ and Troubleshooting guide"
-        }
-      ],
       "/setup/troubleshooting": [
         {
           "source": "/setup/troubleshooting",
@@ -193,7 +181,7 @@
     "backlinks": {
       "/features/language": [
         {
-          "source": "/setup/config",
+          "source": "/setup/articipate",
           "target": "/features/language",
           "text": "Chinese, Japanese, and Korean support"
         }
@@ -205,12 +193,14 @@
           "text": "LaTeX"
         }
       ],
-      "/setup/config": [
+      "/setup/articipate": [
         {
           "source": "/",
-          "target": "/setup/config",
+          "target": "/setup/articipate",
           "text": "Customizing Amethyst"
-        },
+        }
+      ],
+      "/setup/config": [
         {
           "source": "/features/languages",
           "target": "/setup/config",
@@ -237,11 +227,6 @@
       "/setup/editing": [
         {
           "source": "/",
-          "target": "/setup/editing",
-          "text": "Editing Notes in Amethyst"
-        },
-        {
-          "source": "/setup/setup",
           "target": "/setup/editing",
           "text": "Editing Notes in Amethyst"
         },
@@ -300,6 +285,13 @@
           "text": "excluding pages from being published"
         }
       ],
+      "/setup/observe": [
+        {
+          "source": "/",
+          "target": "/setup/observe",
+          "text": "Setup your own Amethyst instance"
+        }
+      ],
       "/setup/obsidian": [
         {
           "source": "/",
@@ -336,11 +328,6 @@
       ],
       "/setup/setup": [
         {
-          "source": "/",
-          "target": "/setup/setup",
-          "text": "Setup your own Amethyst instance"
-        },
-        {
           "source": "/setup/obsidian",
           "target": "/setup/setup",
           "text": "setup"
@@ -353,7 +340,7 @@
           "text": "Troubleshooting and FAQ"
         },
         {
-          "source": "/setup/config",
+          "source": "/setup/articipate",
           "target": "/setup/troubleshooting",
           "text": "FAQ and Troubleshooting guide"
         },
@@ -364,11 +351,6 @@
         },
         {
           "source": "/setup/hosting",
-          "target": "/setup/troubleshooting",
-          "text": "FAQ and Troubleshooting guide"
-        },
-        {
-          "source": "/setup/setup",
           "target": "/setup/troubleshooting",
           "text": "FAQ and Troubleshooting guide"
         }
@@ -392,7 +374,7 @@
   "links": [
     {
       "source": "/",
-      "target": "/setup/setup",
+      "target": "/setup/observe",
       "text": "Setup your own Amethyst instance"
     },
     {
@@ -417,7 +399,7 @@
     },
     {
       "source": "/",
-      "target": "/setup/config",
+      "target": "/setup/articipate",
       "text": "Customizing Amethyst"
     },
     {
@@ -441,12 +423,12 @@
       "text": "config"
     },
     {
-      "source": "/setup/config",
+      "source": "/setup/articipate",
       "target": "/features/language",
       "text": "Chinese, Japanese, and Korean support"
     },
     {
-      "source": "/setup/config",
+      "source": "/setup/articipate",
       "target": "/setup/troubleshooting",
       "text": "FAQ and Troubleshooting guide"
     },
@@ -504,16 +486,6 @@
       "source": "/setup/preview-changes",
       "target": "/setup/hosting",
       "text": "Hosting Amethyst online!"
-    },
-    {
-      "source": "/setup/setup",
-      "target": "/setup/editing",
-      "text": "Editing Notes in Amethyst"
-    },
-    {
-      "source": "/setup/setup",
-      "target": "/setup/troubleshooting",
-      "text": "FAQ and Troubleshooting guide"
     },
     {
       "source": "/setup/troubleshooting",
