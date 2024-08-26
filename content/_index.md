@@ -19,7 +19,6 @@ DBT основан на работе Марши М. Линехан, доктор
 > 👀 Навыки межличностной эффективности: [Preview Changes](setup/preview%20changes.md)
 
 
-
 Returning user? Here's how to [[setup/updating|update]] your existing Amethyst instance.
 
 Here's a list of all [setup-related notes](/tags/setup), which are also accessible via the sidebar menu under the "Getting Started" section.
