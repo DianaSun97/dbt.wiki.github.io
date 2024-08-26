@@ -10,7 +10,7 @@ DBT основан на работе Марши М. Линехан, доктор
 
 
 ## Структура ДБТ
-> 📚 Навыки осознанности: [Setup your own Amethyst instance](setup/observe)
+> 📚 Навыки осознанности: [Setup your own Amethyst instance](setup/_index.md)
 
 > ✏️ Навыки перенесения дистресса: [Editing Notes in Amethyst](setup/editing.md)
 
