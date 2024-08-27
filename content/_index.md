@@ -10,13 +10,13 @@ DBT основан на работе Марши М. Линехан, доктор
 
 
 ## Структура ДБТ
-> 📚 Навыки осознанности: [Setup your own Amethyst instance](setup/_index.md)
+> 📚 Навыки осознанности: [Обзор базовых навыков осознанности](setup/observe.md)
 
-> ✏️ Навыки перенесения дистресса: [Editing Notes in Amethyst](setup/editing.md)
+> ✏️ Навыки перенесения дистресса: [Обзор навыков переживания кризиса](setup/editing.md)
 
-> 🔗 Навыки эмоциональной регуляции: [How to setup your Obsidian Vault to work with Amethyst](setup/obsidian.md)
+> 🔗 Навыки эмоциональной регуляции: [Понимание и обозначение эмоций](setup/obsidian.md)
 
-> 👀 Навыки межличностной эффективности: [Preview Changes](setup/preview%20changes.md)
+> 👀 Навыки межличностной эффективности: [Основные ситуации межличностной эффективности](setup/preview%20changes.md)
 
 
 Returning user? Here's how to [[setup/updating|update]] your existing Amethyst instance.
