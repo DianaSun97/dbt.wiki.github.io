@@ -2,27 +2,14 @@
 title: "Мудрый разум"
 ---
 
-Edit `ignoreFiles` in `config.yaml` to include paths you'd like to exclude from being rendered.
+Мудрый ум является важным понятием в DBT и относится к интеграции рационального и эмоционального части человека, для достижения сбалансированного состояния жизни.
 
-```toml
-...
-ignoreFiles: [  
-    "/content/templates/*",  
-    "/content/private/*", 
-    "<your path here>"
-]
-```
+**Рациональная часть - это логическая, аналитическая и фактическая часть ума. Она фокусируется на разуме и часто ассоциируется с решением проблем и принятием решений.**
 
-`ignoreFiles` supports the use of Regular Expressions (RegEx) so you can ignore patterns as well (e.g. ignoring all `.png`s by doing `\\.png$`).
-To ignore a specific file, you can also add the tag `draft: true` to the frontmatter of a note.
+**Эмоциональная часть - это чувствующая, интуитивная и эмпирическая часть ума. Она фокусируется на эмоциях и часто ассоциируется с творчеством и сопереживанием.**
 
-```markdown
----
-title: Some Private Note
-draft: true
----
-...
-```
+
+
 
 More details in [Hugo's documentation](https://gohugo.io/getting-started/configuration/#ignore-content-and-data-files-when-rendering).
 
