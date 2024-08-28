@@ -3,6 +3,13 @@ title: "Callouts"
 ---
 
 ## Callout support
+```tpl
+{{</* button relref="/" [class="..."] */>}}Get Home{{</* /button */>}}
+{{</* button href="https://github.com/alex-shpak/hugo-book" */>}}Contribute{{</* /button */>}}
+```
+
+{{< button relref="/" >}}Get Home{{< /button >}}
+{{< button href="https://github.com/alex-shpak/hugo-book" >}}Contribute{{< /button >}}
 
 Amethyst supports the same Admonition-callout syntax as Obsidian.
 

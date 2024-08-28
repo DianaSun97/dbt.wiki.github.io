@@ -19,7 +19,7 @@ DBT основан на работе Марши М. Линехан, доктор
 > 👀 Навыки межличностной эффективности: [Основные ситуации межличностной эффективности](setup/preview%20changes.md)
 
 
-Returning user? Here's how to [[setup/updating|update]] your existing Amethyst instance.
+**Википедия предназначена для консультантов диалектической поведенческой терапии, психотерапевтов, а также может служить пособием по самопомощи для людей, которые проходят сеансы психотерапии.**
 
 Here's a list of all [setup-related notes](/tags/setup), which are also accessible via the sidebar menu under the "Getting Started" section.
 
