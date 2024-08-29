@@ -8,6 +8,8 @@ weight: -4
 ## Editing 
 Amethyst runs on top of [Hugo](https://gohugo.io/) so all notes are written in [Markdown](https://www.markdownguide.org/getting-started/).
 
+The majority of configuration can be found under `config.yaml`. An example, with descriptions for each setting, can be found [here](https://github.com/64bitpandas/amethyst/blob/main/config.yaml).
+
 ### Folder Structure
 Here's a rough overview of what's what.
 

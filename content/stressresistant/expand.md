@@ -5,6 +5,11 @@ Expand shortcode can help to decrease clutter on screen by hiding part of text. 
 ## Example
 ### Default
 
+
+
+
+{{< button relref="/" >}}Get Home{{< /button >}}
+{{< button href="https://github.com/alex-shpak/hugo-book" >}}Contribute{{< /button >}}
 ```tpl
 {{</* expand */>}}
 ## Markdown content
