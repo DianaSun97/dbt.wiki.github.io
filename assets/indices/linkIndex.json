@@ -5,37 +5,22 @@
         {
           "source": "/",
           "target": "/setup/observe",
-          "text": "Setup your own Amethyst instance"
+          "text": "Обзор базовых навыков осознанности"
         },
         {
           "source": "/",
           "target": "/setup/editing",
-          "text": "Editing Notes in Amethyst"
+          "text": "Обзор навыков переживания кризиса"
         },
         {
           "source": "/",
           "target": "/setup/obsidian",
-          "text": "How to setup your Obsidian Vault to work with Amethyst"
+          "text": "Понимание и обозначение эмоций"
         },
         {
           "source": "/",
           "target": "/setup/preview-changes",
-          "text": "Preview Changes"
-        },
-        {
-          "source": "/",
-          "target": "/setup/hosting",
-          "text": "Hosting Amethyst online!"
-        },
-        {
-          "source": "/",
-          "target": "/setup/articipate",
-          "text": "Customizing Amethyst"
-        },
-        {
-          "source": "/",
-          "target": "/setup/updating",
-          "text": "update"
+          "text": "Основные ситуации межличностной эффективности"
         },
         {
           "source": "/",
@@ -46,6 +31,20 @@
           "source": "/",
           "target": "/setup/troubleshooting",
           "text": "Troubleshooting and FAQ"
+        }
+      ],
+      "/communication/languages": [
+        {
+          "source": "/communication/languages",
+          "target": "/setup/config",
+          "text": "config"
+        }
+      ],
+      "/emotions/languages": [
+        {
+          "source": "/emotions/languages",
+          "target": "/setup/config",
+          "text": "config"
         }
       ],
       "/features/languages": [
@@ -123,13 +122,6 @@
           "text": "Preview Changes"
         }
       ],
-      "/setup/preview-changes": [
-        {
-          "source": "/setup/preview-changes",
-          "target": "/setup/hosting",
-          "text": "Hosting Amethyst online!"
-        }
-      ],
       "/setup/troubleshooting": [
         {
           "source": "/setup/troubleshooting",
@@ -176,6 +168,13 @@
           "target": "/setup/editing",
           "text": "local editing"
         }
+      ],
+      "/stressresistant/languages": [
+        {
+          "source": "/stressresistant/languages",
+          "target": "/setup/config",
+          "text": "config"
+        }
       ]
     },
     "backlinks": {
@@ -193,14 +192,17 @@
           "text": "LaTeX"
         }
       ],
-      "/setup/articipate": [
-        {
-          "source": "/",
-          "target": "/setup/articipate",
-          "text": "Customizing Amethyst"
-        }
-      ],
       "/setup/config": [
+        {
+          "source": "/communication/languages",
+          "target": "/setup/config",
+          "text": "config"
+        },
+        {
+          "source": "/emotions/languages",
+          "target": "/setup/config",
+          "text": "config"
+        },
         {
           "source": "/features/languages",
           "target": "/setup/config",
@@ -215,6 +217,11 @@
           "source": "/setup/hosting",
           "target": "/setup/config",
           "text": "Customizing Amethyst"
+        },
+        {
+          "source": "/stressresistant/languages",
+          "target": "/setup/config",
+          "text": "config"
         }
       ],
       "/setup/custom-Domain": [
@@ -228,7 +235,7 @@
         {
           "source": "/",
           "target": "/setup/editing",
-          "text": "Editing Notes in Amethyst"
+          "text": "Обзор навыков переживания кризиса"
         },
         {
           "source": "/setup/troubleshooting",
@@ -242,11 +249,6 @@
         }
       ],
       "/setup/hosting": [
-        {
-          "source": "/",
-          "target": "/setup/hosting",
-          "text": "Hosting Amethyst online!"
-        },
         {
           "source": "/setup/troubleshooting",
           "target": "/setup/hosting",
@@ -264,11 +266,6 @@
         },
         {
           "source": "/setup/editing",
-          "target": "/setup/hosting",
-          "text": "Hosting Amethyst online!"
-        },
-        {
-          "source": "/setup/preview-changes",
           "target": "/setup/hosting",
           "text": "Hosting Amethyst online!"
         }
@@ -289,14 +286,14 @@
         {
           "source": "/",
           "target": "/setup/observe",
-          "text": "Setup your own Amethyst instance"
+          "text": "Обзор базовых навыков осознанности"
         }
       ],
       "/setup/obsidian": [
         {
           "source": "/",
           "target": "/setup/obsidian",
-          "text": "How to setup your Obsidian Vault to work with Amethyst"
+          "text": "Понимание и обозначение эмоций"
         },
         {
           "source": "/setup/troubleshooting",
@@ -313,7 +310,7 @@
         {
           "source": "/",
           "target": "/setup/preview-changes",
-          "text": "Preview Changes"
+          "text": "Основные ситуации межличностной эффективности"
         },
         {
           "source": "/setup/editing",
@@ -355,13 +352,6 @@
           "text": "FAQ and Troubleshooting guide"
         }
       ],
-      "/setup/updating": [
-        {
-          "source": "/",
-          "target": "/setup/updating",
-          "text": "update"
-        }
-      ],
       "/tags/setup": [
         {
           "source": "/",
@@ -375,37 +365,22 @@
     {
       "source": "/",
       "target": "/setup/observe",
-      "text": "Setup your own Amethyst instance"
+      "text": "Обзор базовых навыков осознанности"
     },
     {
       "source": "/",
       "target": "/setup/editing",
-      "text": "Editing Notes in Amethyst"
+      "text": "Обзор навыков переживания кризиса"
     },
     {
       "source": "/",
       "target": "/setup/obsidian",
-      "text": "How to setup your Obsidian Vault to work with Amethyst"
+      "text": "Понимание и обозначение эмоций"
     },
     {
       "source": "/",
       "target": "/setup/preview-changes",
-      "text": "Preview Changes"
-    },
-    {
-      "source": "/",
-      "target": "/setup/hosting",
-      "text": "Hosting Amethyst online!"
-    },
-    {
-      "source": "/",
-      "target": "/setup/articipate",
-      "text": "Customizing Amethyst"
-    },
-    {
-      "source": "/",
-      "target": "/setup/updating",
-      "text": "update"
+      "text": "Основные ситуации межличностной эффективности"
     },
     {
       "source": "/",
@@ -416,6 +391,16 @@
       "source": "/",
       "target": "/setup/troubleshooting",
       "text": "Troubleshooting and FAQ"
+    },
+    {
+      "source": "/communication/languages",
+      "target": "/setup/config",
+      "text": "config"
+    },
+    {
+      "source": "/emotions/languages",
+      "target": "/setup/config",
+      "text": "config"
     },
     {
       "source": "/features/languages",
@@ -528,9 +513,9 @@
       "text": "Preview Changes"
     },
     {
-      "source": "/setup/preview-changes",
-      "target": "/setup/hosting",
-      "text": "Hosting Amethyst online!"
+      "source": "/stressresistant/languages",
+      "target": "/setup/config",
+      "text": "config"
     }
   ]
 }
